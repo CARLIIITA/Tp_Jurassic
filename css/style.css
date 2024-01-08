@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    background-color:white rgb(red, green, blue);
+    height: 70px;
+    
+}
+ul li{
+    list-style: none;
+}
+ ul li a {
+    text-decoration: none;
+}
+
+.MenuDeNavigation{
+    display: flex;
+    list-style:none ;
+    justify-content: space-between;   
+    padding: 25px;
+    font-size: small;
+    width: 70%;
+    align-content: center;
+    margin-left: 290px;      
+    color: white
+    
+}
+.BoutonBilleterie{
+    transform-style: none;
+    background-color: rgb(red, green, blue);
+    height: 30px;
+    color: white;
+    padding: 0px;
+    align-items: center;
+    align-content: center;      
+}
+.ImgTicket{
+    width: 15px;
+    height: 15px;
+}
+.ContentHeader{
+}
+.ImageHeader{
+position: absolute;
+z-index: 10;
+}
+.TexteImageHeader{
+position: relative;
+z-index: 21;
+width: 50%;
+margin: auto;
+padding-top:  30px;
+
+}
+.Bordereauxducote{
+width: 25%;
+position: relative;
+z-index: 21;
+margin-left: 1428px;
+margin-top: -63px
+}
+.MilieudePage{
+    width: 25%;
+    margin: auto;
+    
+}
+.TexteMilieudePage1 h1{ 
+    text-align: justify;  
+    padding-top:  30px;
+    white-space: 10px;
+    text-align : center;
+    font-size : 35px;
+    font-weight:bolder
+
+}
+.ImgEntree{
+    padding-top:  30px;
+}
+.ParagrapheMilieudePage1{
+    font-size: 10px;
+   word-spacing: 5px;
+   line-height: 25px;
+   padding-top:  25px;
+   text-align: justify;  
+}
+
+.Paragraphe2{
+    text-align: justify;  
+    font-size: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+    padding-top:  25px;
+}
+.Paragraphe3{
+    text-align: justify;  
+    font-size: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+    padding-top:  25px;
+}
+.Paragraphe4{
+    text-align: justify;  
+    font-size: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+    padding-top:  25px;
+}
+.Paragraphe5{
+    font-size: 15px;
+    font-weight: bolder;
+    word-spacing: 5px;
+    line-height: 25px;
+    padding-top:  25px;
+    margin: auto;
+}
+.Paragraphe6{
+    font-size: 15px;
+    font-weight: bolder;
+    word-spacing: 5px;
+    line-height: 25px;
+    padding-top:  25px;
+    margin: auto;
+}
+.BoutonReserver{
+    padding-top:  25px;
+    transform-style: none;
+    background-color: rgb(red, green, blue);
+    height: 30px;
+    color: white;
+    padding: 0px;
+    align-items: center;
+    align-content: center;  
+    width: 30%;
+    margin: auto;
+}
+.TierDelaPage{   
+    width: 100%;
+    display: flex;
+}
+.LesTarifs{
+width: 30%;
+float: left;
+text-align: justify;
+ margin-left: 130px;}
+.LesTarifs img{
+    width: 50px;
+   
+}
+.LaMaps{
+    width: 30%;
+    float: left;
+    text-align: justify;
+    margin-left: 500px;
+}
+.LaMaps img{
+    width: 50px;
+}
+.TierDelaPage h4{
+
+    font-size: 25px;
+}
+    
+}
+
+
+
